@@ -8,7 +8,7 @@ setup(
   author = 'Altieres Schincariol Netto',
   author_email = 'altnetto@gmail.com',
   url = 'https://github.com/altnetto/clockpy',
-  download_url = 'https://github.com/altnetto/clockpy/archive/refs/heads/main.zip',
+  download_url = 'https://github.com/altnetto/clockpy/archive/refs/tags/v_0.1.tar.gz',
   keywords = ['PYTHON', 'TIME', 'CALCULATION', 'PERFORMANCE'],
   install_requires=[],
   classifiers=[
