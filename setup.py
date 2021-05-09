@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'clockpy',
   packages = ['clockpy'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'A library that enables you an easy way to verify your code time consumption',
   author = 'Altieres Schincariol Netto',
   author_email = 'altnetto@gmail.com',
   url = 'https://github.com/altnetto/clockpy',
-  download_url = 'https://github.com/altnetto/clockpy/archive/refs/tags/v_0.1.tar.gz',
+  download_url = 'https://github.com/altnetto/clockpy/archive/refs/tags/v_0.2.tar.gz',
   keywords = ['PYTHON', 'TIME', 'CALCULATION', 'PERFORMANCE'],
   install_requires=[],
   classifiers=[
