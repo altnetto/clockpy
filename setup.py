@@ -5,6 +5,8 @@ setup(
   version = '0.3',
   license='MIT',
   description = 'A library that enables you an easy way to verify your code time consumption',
+  long_description = 'README.md',
+  long_description_content_type = 'text/markdown',
   author = 'Altieres Schincariol Netto',
   author_email = 'altnetto@gmail.com',
   url = 'https://github.com/altnetto/clockpy',
